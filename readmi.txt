@@ -1,0 +1,15 @@
+PROJET : Licence 2 Ingénierie Informatique (L2I)
+--------------------------------------------------
+Prénom : Ibrahima
+Nom : DIALLO
+Matricule : 202300429
+Groupe TD/TP : Groupe II
+
+Description du projet :
+Ce mini-site dynamique a été réalisé avec ReactJs, Tailwind CSS et Framer Motion. 
+Il respecte toutes les exigences du cahier des charges :
+- Page 1 : Présentation de la L2I avec 4 sections.
+- Page 2 : Présentation des niveaux avec tableau dynamique et Formulaire 1.
+- Page 3 : Département Informatique avec contact et Formulaire 2.
+- Validation stricte des formulaires selon les critères spécifiés.
+- Design moderne, professionnel et dynamique (Approche "L'Avant-Garde Académique").
